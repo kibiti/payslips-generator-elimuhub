@@ -3,7 +3,7 @@
 A simple static site that generates weekly payslips for tutors. This repository is ready to publish on GitHub Pages.
 
 Live demo (after deploy)
-- Your site will be available at: `https://kibiti.github.io/<repo-name>/` once published (project page).
+- Your site will be available at: `https://kibiti.github.io/payslips-generator-elimuhub/` once published (project page).
 - If you create a repo named `kibiti.github.io`, it will be published as the user site at `https://kibiti.github.io/`.
 
 Repository structure
@@ -19,7 +19,7 @@ How to publish (quick)
 2. Push the files above to the `main` branch.
    - Example:
      - git init
-     - git add .
+     - git add
      - git commit -m "Initial site"
      - git branch -M main
      - git remote add origin git@github.com:kibiti/payslips-generator-elimuhub.git
