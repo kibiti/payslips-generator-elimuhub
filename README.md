@@ -22,7 +22,7 @@ How to publish (quick)
      - git add
      - git commit -m "Initial site"
      - git branch -M main
-     - git remote add origin git@github.com:kibiti/payslips-generator-elimuhub.git
+     - git remote add origin git@github.com:https://kibiti.github.io/payslips-generator-elimuhub/
      - git push -u origin main
 3. On push to `main`, the included GitHub Actions workflow will deploy the site to the `gh-pages` branch automatically and GitHub Pages will serve it.
 4. In the repository settings > Pages, ensure the source is `gh-pages` branch (the actions workflow will create it on first run).
